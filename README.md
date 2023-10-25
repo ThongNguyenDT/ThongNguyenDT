@@ -1,16 +1,36 @@
-<h1 align="center">Hi 👋, I'm Thông Nguyễn</h1>
-<h3 align="center">A student majoring in Information Technology </h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Thong+Nguyen" alt="Hi 👋, I'm Thông Nguyễn"/>
+</h1>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">🔭 A student majoring in Information Technology</h3>
 
-**`Do not know Codes!`**
+<br/>
+<div>
+  <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  
+  **`Do not know Codes!`**
 
-<br />
-<br />
-<br />
-<br />
 
-### 🧰 Languages and Tools
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  
+</div>
+<hr/>
+
+<h2 align="center">⚒️ 🧰 Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,arduino,c,cs,cpp,dotnet,docker" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescriptfirebase,mongodb,java,nextjs,mysql,flask" /><br>
+</div>
+
+
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
